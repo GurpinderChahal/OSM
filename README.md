@@ -126,6 +126,10 @@ If everything worked OK, you should have a working tileserver and you can view i
 Now pat yourself and make changes in files to make your map more beautiful.
 
 
+Don't forget to clear your tile cache and regentating them again to see your changes.
+
+
+
 
 
 
